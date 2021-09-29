@@ -107,3 +107,13 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="Canal Arte Um" tvg-name="Canal Arte Um" tvg-logo="https://i1.wp.com/bastidoresdainformacao.com.br/wp-content/uploads/2014/04/arte1.png" group-title="Canais - Esportes",CanalArte UM
 https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8
+#EXTINF:-1 tvg-id="Canal Arte Um" tvg-name="Canal Arte Um" tvg-logo="https://i1.wp.com/bastidoresdainformacao.com.br/wp-content/uploads/2014/04/arte1.png" group-title="Canais - Variedades",Canal Arte UM
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8
+#EXTINF:-1 tvg-id="Canal Life Time" tvg-name="Canal Life Time" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/04/canal-lifetime-chega-ao-brasil-em-julho.gif" group-title="Canais - Variedades",Canal Life Time
+https://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_2.m3u8
+#EXTINF:-1 tvg-id="Tv Brasil" tvg-name="Tv Brasil" tvg-logo="https://seeklogo.com/images/T/tv-brasil-logo-694CF35F61-seeklogo.com.jpg" group-title="Canais - Abertos",Tv Brasil HD
+https://edge-go-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(GZWgYSlGL0kn3ULDujuUGA)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGCSgBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
+#EXTINF:-1 tvg-id="Rede Sbt" tvg-name="Rede Sbt" tvg-logo="https://i1.sndcdn.com/artworks-000054984331-ltatmb-t500x500.jpg" group-title="Canais - Abertos",Rede Sbt HD
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1129967546_b1000000.m3u8
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://exorbeo.com/wp-content/uploads/blogger/-Fy4zst8MqtI/T6VltrmKe7I/AAAAAAAAEyM/UY0MTlXpvI0/s1600/history%2Bhd%2Bna%2Bclaro%2Btv.jpg" group-title="Canais - Variedades",History Channel
+https://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8
