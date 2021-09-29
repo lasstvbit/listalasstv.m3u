@@ -117,3 +117,17 @@ https://edge-go-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1129967546_b1000000.m3u8
 #EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://exorbeo.com/wp-content/uploads/blogger/-Fy4zst8MqtI/T6VltrmKe7I/AAAAAAAAEyM/UY0MTlXpvI0/s1600/history%2Bhd%2Bna%2Bclaro%2Btv.jpg" group-title="Canais - Variedades",History Channel
 https://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://exorbeo.com/wp-content/uploads/blogger/-Fy4zst8MqtI/T6VltrmKe7I/AAAAAAAAEyM/UY0MTlXpvI0/s1600/history%2Bhd%2Bna%2Bclaro%2Btv.jpg" group-title="Canais - Variedades",History Channel
+https://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8
+#EXTINF:-1 tvg-id="Tv Serie" tvg-name="Tv Serie" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/gpUsYyXK_400x400.png" group-title="Canais - Variedades",Tv Serie
+https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w2103762623.m3u8
+#EXTINF:-1 tvg-id="GOSPEL MOVIE TV" tvg-name="GOSPEL MOVIE TV" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/GOSPEL.png" group-title="Canais - Variedades",GOSPEL MOVIE TV
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w44071130.m3u8
+#EXTINF:-1 tvg-id="Mtv Brasil" tvg-name="Mtv Mtv Brasil" tvg-logo="https://yt3.ggpht.com/gJ9P44y_-Vkxbfx43PUiab690vuCTWwuDKiCpTMxC6Hh9q6HBZyHyEr9lukHxarfePUU8Bu9=s400-c-k-c0x00ffffff-no-rj" group-title="Canais - Musicas",Mtv Brasil
+https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_2.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://pbs.twimg.com/profile_images/1412062146754748416/raJXXIie.jpg" group-title="Canais - Musicas",Cinemax
+https://m3u9.ml/b/hls1/cinemax.m3u8?mu3zAQc9HC3GbwJq=0zVlGZeUDJrBXCvytkOelQ&3U1G7qaTxrPbalZnEx=1632970261
+#EXTINF:-1 tvg-id="Star Hits" tvg-name="Star Hits" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-star-hits1.jpg" group-title="Canais - Musicas",Star Hits
+https://m3u9.ml/b/hls1/foxpremium1.m3u8?mu3zAQc9HC3GbwJq=CNj_D_Y-8gKj0WZ8oyk6TA&3U1G7qaTxrPbalZnEx=1632970736
+#EXTINF:-1 tvg-id="Warner Bros" tvg-name="Warner Bros" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png" group-title="Canais - Filmes",Warner Bros
+https://m3u9.ml/b/hls1/warner.m3u8?mu3zAQc9HC3GbwJq=2mLbQQrziZt3rxGOHTVnEg&3U1G7qaTxrPbalZnEx=1632971
