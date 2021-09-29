@@ -73,6 +73,11 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_sl
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Tv Câmera" tvg-name="TV Câmera SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-camara_m.png" group-title="Canais - Abertos",TV Câmera SD
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-
+#EXTINF:-1 tvg-id="RBA Tv" tvg-name="RBA tv" tvg-logo="https://n1entreter.com.br/wp-content/uploads/2017/12/redetv.jpg" group-title="Canais - Abertos",RBA tv
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="Tv Câmera" tvg-name="TV Câmera SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-camara_m.png" group-title="Canais - Abertos",TV Câmera SD
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="Tv Caravelas" tvg-name="TV CaravelasSD" tvg-logo="https://pbs.twimg.com/profile_images/913844846934265856/kIl9v0lz_400x400.jpg" group-title="Canais - Abertos",TV Caravelas SD
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1185768735.m3u8
 
 
