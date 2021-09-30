@@ -323,6 +323,24 @@ http://105m3u8.epg-kc.com/v3/youshi/m3_pj4cLmD0b6X3vC5Swglds82O_480p.m3u8?sessio
 http://105m3u8.epg-kc.com/v3/youshi/m3_ORgWK5d8TMi6yFNCqnSULfGv_480p.m3u8?session_id=8Fr6n2qDlkrS&app_ver=10101&auth_id=52297530_com.global.brasiltvweb&client_ip=2804:14d:5c63:a558:c07a:d48a:1d3b:6110&user_id=52297530&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=31df23b4&expired=1633033254&token=95660AD88D7A931F9AE52E8AC4C8E111&media_code=m3_ORgWK5d8TMi6yFNCqnSULfGv_480p
 #EXTINF:-1 tvg-id="Warner Bros" tvg-name="Warner Bros" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png" group-title="Canais - Filmes",Warner Bros
 http://105m3u8.epg-kc.com/v3/youshi/m4_dguYh1LjBTwlnKecmOPADtoN_480p.m3u8?session_id=8Fr6n2qDlkrS&app_ver=10101&auth_id=52297530_com.global.brasiltvweb&client_ip=2804:14d:5c63:a558:c07a:d48a:1d3b:6110&user_id=52297530&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=31df23b4&expired=1633033254&token=95660AD88D7A931F9AE52E8AC4C8E111&media_code=m4_dguYh1LjBTwlnKecmOPADtoN_480p
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_410/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_3539/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_1049/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_1573/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_256/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_176/playlist.m3u8
 
 
 
