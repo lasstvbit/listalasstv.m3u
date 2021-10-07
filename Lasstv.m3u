@@ -343,6 +343,17 @@ https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_25
 https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_176/playlist.m3u8
 #EXTINF:-1 tvg-id="Câmera Em Israel Muro da Lamentações" tvg-name="Câmera Em Israel Muro da Lamentações" tvg-logo="https://img.directindustry.com/pt/images_di/photo-mg/34515-16386114.jpg" group-title="Canais - Abertos",Câmera EM Israel Muro da Lamentações
 https://cdn1.cast-tv.com/23595/Live_Kotel1_ABR/23595/Live_Kotel1_4K_720p/chunks.m3u8?nimblesessionid=803204
+#EXTINF:-1 tvg-id="combate" tvg-name="Combate" tvg-logo="https://empresas.forestdigital.com.br/wp-content/uploads/2021/04/COMBATE.jpg" group-title="Canais - Esportes",Combate
+http://105m3u8.epg-kc.com/v3/youshi/m1_PwsKRjIegyASUaYBiH3ou5LT_480p.m3u8?session_id=rF5IVvlPbDlm&app_ver=10101&auth_id=52724484_com.global.brasiltvweb&client_ip=2804:14d:5c63:a558:f4fc:1b7f:709e:996f&user_id=52724484&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=c2fd0a07&expired=1633625019&token=F87F628A7A52D920860C4D7A787BAF5B&media_code=m1_PwsKRjIegyASUaYBiH3ou5LT_480p
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_410/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_3539/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_1049/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo RJ " tvg-name="Globo Rj" tvg-logo="https://pinguimpictures.files.wordpress.com/2013/01/logo-tv-globo1.png?w=640" group-title="Canais - Abertos",Canal Globo Rj
+https://live-cm-ah-13-37.video.globo.com/d/m/e/nl/s/hls-globo-rj/hls-globo-rj_1573/playlist.m3u8
 
 
 
