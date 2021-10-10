@@ -432,3 +432,5 @@ http://105m3u8.epg-kc.com/v3/youshi/m1_ZJTh6oMdeOURwWyiA9cHgYQk_480p.m3u8?sessio
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUSYOm3plYo2C7tXDhQmlG0)/dm/3/x7txn7q/s/live-4.m3u8ps://59f1cbe63db89.streamlock.net:14 /chunklist_w1450196991.m3u8
 #EXTINF: -1 tvg-id = "Canal 29" tvg-name = "Canal 29" tvg-logo = "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcb3ff84b8f31ddc39ef213b42402f75. we
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1450196991.m3u8
+#EXTINF:-1 tvg-id="Warner Bros" tvg-name="Warner Bros" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png" group-title="Canais - Filmes",Warner Bros
+https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
