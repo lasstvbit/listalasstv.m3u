@@ -434,3 +434,15 @@ https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUSYOm3plYo2C7tXDh
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1450196991.m3u8
 #EXTINF:-1 tvg-id="Warner Bros" tvg-name="Warner Bros" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png" group-title="Canais - Filmes",Warner Bros
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
+#EXTINF:-1 tvg-id="Warner Bros" tvg-name="Warner Bros" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png" group-title="Canais - Filmes",Warner Bros
+https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://pbs.twimg.com/profile_images/1428920270677549058/e2BBUKZt_400x400.jpg" group-title="Canais - Variedades",A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://pbs.twimg.com/profile_images/1428920270677549058/e2BBUKZt_400x400.jpg" group-title="Canais - Variedades",A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
+#EXTINF:-1 tvg-id="Tnt Sports" tvg-name="Tnt Sports" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Sports 
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="https://skytvplanos.com.br/img/channels/lg-91-canal-tlc.png" group-title="Canais - Esportes",Band Sports
+https://d1wwtskvr1r98k.cloudfront.net/22d48d4e768648da93b637a3bfc65b18/index_2.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="https://skytvplanos.com.br/img/channels/lg-91-canal-tlc.png" group-title="Canais - Variedades",Premiere7
+https://m3u9.ml/b/hls1/premiere7.m3u8?mu3zAQc9HC3GbwJq=NkEgmb9kEju4KshI55h0Gw&3U1G7qaTxrPbalZnEx=1633838715
