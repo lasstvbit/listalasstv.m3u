@@ -452,3 +452,9 @@ https://m3u9.ml/b/hls1/premiere7.m3u8?mu3zAQc9HC3GbwJq=NkEgmb9kEju4KshI55h0Gw&3U
 https://m3u9.ml/b/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=zp_Um4QmR6PqWz8efGZz7w&3U1G7qaTxrPbalZnEx=1633838857
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="https://img1.gratispng.com/20180610/sqa/kisspng-paramount-pictures-paramount-channel-television-ch-5b1dcd035dcf66.8906802315286796833843.jpg" group-title="Canais - Filmes",Paramount Channel
 https://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m3u8
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://pbs.twimg.com/profile_images/3175948274/87e789dd4c9b34aac0ce1c395daffe22_400x400.png" group-title="Canais - Filmes",Nick Jr
+https://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_2.m3u8
+#EXTINF:-1 tvg-id="Cine Max" tvg-name="Cine Max" tvg-logo="http://3.bp.blogspot.com/-8YvPX1bR6tg/UzdVokFbrXI/AAAAAAAAh3o/uukPG712-vw/s1600/Cinemax.png" group-title="Canais - Filmes",Cine Max
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1453355604.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="https://img1.gratispng.com/20180610/sqa/kisspng-paramount-pictures-paramount-channel-television-ch-5b1dcd035dcf66.8906802315286796833843.jpg" group-title="Canais - Filmes",Paramount Channel
+https://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m3u8
