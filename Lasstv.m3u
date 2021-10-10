@@ -446,3 +446,7 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://d1wwtskvr1r98k.cloudfront.net/22d48d4e768648da93b637a3bfc65b18/index_2.m3u8
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="https://skytvplanos.com.br/img/channels/lg-91-canal-tlc.png" group-title="Canais - Variedades",Premiere7
 https://m3u9.ml/b/hls1/premiere7.m3u8?mu3zAQc9HC3GbwJq=NkEgmb9kEju4KshI55h0Gw&3U1G7qaTxrPbalZnEx=1633838715
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="https://i.pinimg.com/originals/aa/1d/84/aa1d84dc697400b96ae6e3118f3a5675.png" group-title="Canais - Variedades",Premiere7
+https://m3u9.ml/b/hls1/premiere7.m3u8?mu3zAQc9HC3GbwJq=NkEgmb9kEju4KshI55h0Gw&3U1G7qaTxrPbalZnEx=1633838715
+#EXTINF:-1 tvg-id="Premiere Fc" tvg-name="Premiere Fc" tvg-logo="https://i.pinimg.com/originals/aa/1d/84/aa1d84dc697400b96ae6e3118f3a5675.png" group-title="Canais - Esportes",Premiere Fc
+https://m3u9.ml/b/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=zp_Um4QmR6PqWz8efGZz7w&3U1G7qaTxrPbalZnEx=1633838857
