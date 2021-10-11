@@ -460,3 +460,13 @@ https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1453355604.m3u8
 https://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m3u8
 #EXTINF:-1 tvg-id="Tnt Esportes 8" tvg-name="Tnt Esportes 8" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="Xtreme" tvg-name="Xtreme" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-1150021928.jpg" group-title="Canais - Infantil",Discovery Kids Channel
+https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1596766570.m3u8
+#EXTINF:-1 tvg-id="Tv Diario" tvg-name="Tv Diario" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="Canais - Abertos",Tv Diario HD
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZXBkBxe2us7tOg2VdzUJ1Ps)/dm/3/x7txn7q/s/live-4.m3u8
+#EXTINF:-1 tvg-id="Tv Escola" tvg-name="Tv Escola" tvg-logo="https://lh3.googleusercontent.com/proxy/SRUEpNS-Q0PDw-LqXN4Ie7jmpZC8CTsK0-qvEfQbRSPHkxHlAZe5Fnooy-IunFjj08DEBWLT4Vc_PXDhd7aPZ34YnFqwQHd5pQa4vUMmH52q3rb3-zNvJTC9KMs" group-title="Canais - Filmes",Tv Escola
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w908786114.m3u8
+#EXTINF:-1 tvg-id="Tv Futura" tvg-name="Tv Futura" tvg-logo="https://lh3.googleusercontent.com/proxy/sRDkJVyqMMFDOPOwXFYrT6yUQyMa62FD-uG0S6y8AegJQJRIGmGaWl0pmTpNyTDaN_etljUT2CJ-djsChKJ0-k_fMsfrLppQPgPf91YOHY0Yrjdwa9S8vE3BzXEh1JdJb0SDr1TcqyUv35NT46LXxfRpmhxTHzeUsROWkz-VweIVuovri_Sqv_2cwmWMa2E3HxTQW6oZ-J_6bhF1WOHu" group-title="Canais - Filmes",Tv Futura
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w358899857.m3u8
+#EXTINF:-1 tvg-id="Rede Record" tvg-name="Rede Record" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdpdE97XV3ygf2cnlV9jcCkIDoelwCcmBSpfkaUo0kwMw-RPnUwXxFwhIsORdzAy7Rd7w&usqp=CAU" group-title="Canais - Abertos",Rede Record
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?sd=10&rebase=on
