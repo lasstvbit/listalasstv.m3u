@@ -470,3 +470,15 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w358899857.m3u8
 #EXTINF:-1 tvg-id="Rede Record" tvg-name="Rede Record" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdpdE97XV3ygf2cnlV9jcCkIDoelwCcmBSpfkaUo0kwMw-RPnUwXxFwhIsORdzAy7Rd7w&usqp=CAU" group-title="Canais - Abertos",Rede Record
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/08/Nickelodeon-1.jpg" group-title="Canais - Infantil",Nickelodeon
+https://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8
+#EXTINF:-1 tvg-id="Tv Natal" tvg-name="Tv Natal" tvg-logo="https://www.padrereginaldomanzotti.org.br/wp-content/uploads/2016/12/tv-natal-canOAsm.jpg" group-title="Canais - Variedades",Tv Natal
+http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w2042378885.m3u8
+#EXTINF:-1 tvg-id="IS Tv" tvg-name="IS Tv" tvg-logo="https://1.bp.blogspot.com/-vfe_QeX2LOM/YTOg7rXriAI/AAAAAAAAFX0/enjvS0qkjIM9qidLWE5OOIzY8lKvIbPuACLcBGAsYHQ/s200/ISTV.webp" group-title="Canais - Variedades",Is Tv 
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:-1 tvg-id="Tv Clone" tvg-name="Tv Clone" tvg-logo="https://1.bp.blogspot.com/-qO7V5fgqGFY/YTD7QzFbj0I/AAAAAAAAFSI/i3qfOlT2P5sdyYOyrMlARFJXXUpXzNmjACLcBGAsYHQ/s200/REDE%2BCLONE%2BTV.webp" group-title="Canais - Variedades",Tv Clone 
+https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
+#EXTINF:-1 tvg-id="Animestation" tvg-name="Animestation" tvg-logo="https://1.bp.blogspot.com/-LOIKsnjUrbM/YNJ3cr-SMzI/AAAAAAAAE6I/m-8x4h98VJo6YOlN5miSgTylyz95QxXzQCLcBGAsYHQ/s0/ANIME%2BSTATION.png" group-title="Canais - Variedades",Animestation 
+https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w995041385.m3u8
+#EXTINF:-1 tvg-id="Retrô Cartoon2" tvg-name="Retrô Cartoon2" tvg-logo="https://1.bp.blogspot.com/-Tk_nDgzno00/YRfsL2aXRlI/AAAAAAAAFGU/d7a448ZFXb0I-HVIFa5OZFCVtry2hZ2ZwCLcBGAsYHQ/s0/RETR%25C3%2594%2BCARTOON.png" group-title="Canais - Variedades",Retrô Cartoon2
+https://stmv1.srvif.com/retrotv2/retrotv2/chunklist_w1246852173.m3u8
